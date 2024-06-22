@@ -34,7 +34,7 @@ public class DataTypeRelatedPgms {
         System.out.println("D = " + Arrays.toString(d));
 
         System.out.println("The array values of c and d after:");
-        d[2] = 12;
+        d[2] = 15;
         System.out.println("C = " + Arrays.toString(c));
         System.out.println("D = " + Arrays.toString(d));
     }
