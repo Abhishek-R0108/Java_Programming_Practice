@@ -1,5 +1,5 @@
 //Diff btw Primitive and Object oriented(Non-Primitive) Datatype.
-package Programs;
+package HackerRankProblemsSolved;
 
 import java.util.Arrays;
 

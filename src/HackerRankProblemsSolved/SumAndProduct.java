@@ -1,5 +1,5 @@
 //This program calculates sum and product of the number given by user.
-package Programs;
+package HackerRankProblemsSolved;
 
 import java.util.Scanner;
 
